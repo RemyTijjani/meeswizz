@@ -26,7 +26,7 @@ npm install --save-dev @nomicfoundation/hardhat-toolbox
 echo "Hardhat toolbox installed."
 
 echo "Creating .env file..."
-read -p "Enter your private key: " PRIVATE_KEY
+read -p "Enter your private key: " 6cfe6cb903d7f70b7a40a5f5508bff250788ed78535a31682827ecb66319b9f8
 echo "PRIVATE_KEY=$PRIVATE_KEY" > .env
 echo ".env file created."
 
